@@ -2,15 +2,15 @@ import { defineConfig } from 'vitepress'
 import { generateSidebar } from 'vitepress-sidebar'
 
 export default defineConfig({
-  base: '/CSDIY-Document-organization/',
-  title: "WUSTACM--CSdiy文档",
+  base: '/CSDIY-document-organization/',
+  title: "WUSTACM--CSDIY文档",
   description: "WUSTACM 计算机自学指南",
   
   themeConfig: {
     // 1. 顶部导航 (极少变动，手动保留大类即可)
     nav: [
       { text: '首页', link: '/' },
-      // { text: '计算机基础', link: '/cs-basics/' },
+      { text: '序言', link: '/xuyan/' },
       // { text: '算法与数据结构', link: '/algorithm/' }
     ],
 

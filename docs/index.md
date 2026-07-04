@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "WUSTACM"
-  text: "CSdiy文档"
-  tagline: My great project tagline
+  text: "CSDIY文档"
+  tagline: 学习，生活，诗与远方
   actions:
     - theme: brand
       text: Markdown Examples
