@@ -3,7 +3,7 @@ title: Arch安装
 order: 3
 ---
 
-**在此感谢本文主要笔者 24级ACM俱乐部成员 jianges**
+**在此感谢本文主要笔者 25级ACM俱乐部成员 jianges**
 
 ## 1. 制作启动盘
 
